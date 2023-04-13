@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Sumisumisumith/Sumisumisumith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Welcome to Sumiya's page 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,13 +8,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumisumisumith
 )](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumisumisumith)]
-(https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumisumisumith
+)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sumisumisumith)](https://github.com/ryo-ma/github-profile-trophy)
