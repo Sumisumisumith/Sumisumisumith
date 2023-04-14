@@ -1,6 +1,6 @@
 ### Welcome to Sumiya's page 👋
 
- ⚽github初心者の理系大学生．
+ ⚽github初心者の理系大学生
 - From : Tokyo Japan
 - Study: Sports & Computer Vision, Deep Learnig, Ultrasound Vision, Webapp, English...
 - Skill: Python, C, CSS, HTML, JavaScript, Matlab, Django, Flask, Tensorflow...
